@@ -49,7 +49,7 @@ ul {
 }
 
 .into-text {
-    text-align: center;
+    text-align: left;
     border: 1px solid white;
 }
 .into-text h1 {
@@ -110,11 +110,10 @@ h2 {
     padding-top: 10px;
     align-text:center;
     color: black;
-    margin-left: 10px
+    margin-right: 10px
 }
 
 #profile-pic {
-    
     border-radius: 300px;
     height: 220px;
     width: 200px;
