@@ -108,9 +108,9 @@ h2 {
 
 .about-me-text {
     padding-top: 10px;
-    align-text:center;
+    align-text: center;
     color: black;
-    margin-right: 10px
+    margin-right: 10px;
 }
 
 #profile-pic {
@@ -167,14 +167,14 @@ a {
     color: red;
     border-radius: 10px;
     background-color: black;
-    height: 30px;
+    height: 40px;
     width: 100px;
 }
 
 .reference-button:hover {
     background-color: rgb(58, 55, 55);
     cursor: pointer;
-    height: 30px;
+    height: 40px;
 }
 
 h4 {
