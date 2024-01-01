@@ -151,7 +151,7 @@ a {
 }
 
 .references {
-    margin-top: 20px;
+    margin-top: 10px;
     display: flex;
     padding-top: 1px;
     padding-left :2px;
@@ -167,14 +167,14 @@ a {
     color: red;
     border-radius: 10px;
     background-color: black;
-    height: 30px;
+    height: 25px;
     width: 100px;
 }
 
 .reference-button:hover {
     background-color: rgb(58, 55, 55);
     cursor: pointer;
-    height: 30px;
+    height: 25px;
 }
 
 h4 {
@@ -188,6 +188,7 @@ h6 {
 #logo {
     height: 40px;
     width: 40px;
+    border: 1px solid white;
     border-radius: 5px;
 }
 
