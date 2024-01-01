@@ -91,7 +91,7 @@ p {
     display: flex;
     border: 1px solid black;
     align-items: center;
-    padding: 80px;
+    padding: 60px;
     justify-content: space-between;
 }
 
@@ -101,6 +101,8 @@ h2 {
 }
 
 .about-me-text {
+    padding-top: 10px;
+    align-text:center;
     color: black;
 }
 
