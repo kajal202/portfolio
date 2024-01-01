@@ -110,12 +110,14 @@ h2 {
     padding-top: 10px;
     align-text:center;
     color: black;
+    margin-left: 10px
 }
 
 #profile-pic {
+    
     border-radius: 300px;
-    height: 200px;
-    width: 190px;
+    height: 220px;
+    width: 200px;
 }
 
 #projects {
@@ -166,14 +168,14 @@ a {
     color: red;
     border-radius: 10px;
     background-color: black;
-    height: 10px;
+    height: 30px;
     width: 100px;
 }
 
 .reference-button:hover {
     background-color: rgb(58, 55, 55);
     cursor: pointer;
-    height: 10px;
+    height: 30px;
 }
 
 h4 {
