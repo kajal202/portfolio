@@ -116,7 +116,7 @@ h2 {
 #profile-pic {
     border-radius: 300px;
     height: 220px;
-    width: 200px;
+    width: 210px;
 }
 
 #projects {
@@ -167,14 +167,14 @@ a {
     color: red;
     border-radius: 10px;
     background-color: black;
-    height: 40px;
+    height: 30px;
     width: 100px;
 }
 
 .reference-button:hover {
     background-color: rgb(58, 55, 55);
     cursor: pointer;
-    height: 40px;
+    height: 30px;
 }
 
 h4 {
@@ -188,6 +188,7 @@ h6 {
 #logo {
     height: 40px;
     width: 40px;
+    border-radius: 5px;
 }
 
 .project-logo {
